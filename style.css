@@ -1,12 +1,13 @@
 h1 {
-    color: #00FFFF;
+    color: #000080;
     text-align: center;
     font-size: 45px;
     border-bottom: 5px solid;
 }
 
 h2 {
-    border-bottom: 1px solid #bfbfbf;
+    color: #000000;
+    border-bottom: 1px solid #000000;
     padding-bottom: 3px;
     margin: 5px 5px 5px 5px;
 }
@@ -25,11 +26,12 @@ ul {
 
 body {
     text-align: center;
-    border: 10px solid blue;
+    border: 10px solid #C0C0C0;
     padding: 5px 5px 5px 5px;
     margin: 5px 5px 5px 5px;
+    background-color: #FFFFFF;
 }
 button {
-    color: green;
+    color: blue;
     font-size:18px;
 }
