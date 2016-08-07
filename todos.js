@@ -1,6 +1,6 @@
 var myList = []
 
-var input = document.getElementById('index-input')
+var input = document.getElementById('todos-input')
 var submitBtn = document.getElementById('submit')
 submitBtn.addEventListener('click', function() {
     myList.push(input.value)
@@ -8,7 +8,7 @@ submitBtn.addEventListener('click', function() {
     renderTodos()
 })
 
-var list = document.getElementById('index')
+var list = document.getElementById('todos')
 
 function renderTodos() {
     list.innerHTML = ''

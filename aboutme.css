@@ -1,19 +1,7 @@
-calculator {
-    padding: 10px 10px 10px 10px;
-    border: 15px solid;
-}
-li:hover {
-    text-decoration: underline;
-    font-size: 18px;
-    color: #8b0000;
-}
 body {
     text-align: center;
-    border: 10px red solid;
-    padding: 25px 25px 25px 25px;
-    margin: 25px 25px 25px 25px;
-    background-color: lightblue;
 }
+
 .nav {
     background-color: #595959;
     color: #ffffff;
@@ -31,4 +19,3 @@ body {
 .nav > li > a:hover {
     color: #c1c1c1;
 }
-
