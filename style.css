@@ -13,12 +13,6 @@ h2 {
     padding-bottom: 3px;
     margin: 5px 5px 5px 5px;
 }
-
-li:hover {
-    text-decoration: underline;
-    font-size: 18px;
-    color: #8b0000;
-}
 .nav {
     background-color: #595959;
     color: #ffffff;
